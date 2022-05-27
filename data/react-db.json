@@ -1,0 +1,14 @@
+{
+ "products":[
+     {"id":1, "productName":"iPhone", "price": 8900, "quantity":0},
+     {"id":2, "productName":"Sony Camera", "price": 312, "quantity":0},
+     {"id":3, "productName":"TV", "price": 12220, "quantity":0},
+     {"id":4, "productName":"iPad Pro", "price": 3124, "quantity":0},
+     {"id":5, "productName":"Xbox", "price": 521, "quantity":0},
+     {"id":6, "productName":"Dell monitor", "price": 631, "quantity":0}
+ ],
+ "users":[
+     {"id":1, "email": "diego.taka@hotmail.com", "password": "password"},
+     {"id":2, "email": "notf3ar@gmail.com", "password": "password"}
+ ]
+}
